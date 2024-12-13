@@ -1,0 +1,58 @@
+{
+  "athletes": [
+    {
+      "id": "f025",
+      "name": "John Doe",
+      "sport": "Basketball",
+      "nationality": "USA"
+    },
+    {
+      "id": "f026",
+      "name": "Anna Smith",
+      "sport": "Tennis",
+      "nationality": "GBR"
+    },
+    {
+      "id": "f027",
+      "name": "Carlos Rivera",
+      "sport": "Football",
+      "nationality": "ESP"
+    },
+    {
+      "id": "f028",
+      "name": "Liu Wei",
+      "sport": "Badminton",
+      "nationality": "CHN"
+    },
+    {
+      "id": "f029",
+      "name": "Emma Johnson",
+      "sport": "Swimming",
+      "nationality": "CAN"
+    },
+    {
+      "id": "f030",
+      "name": "David Lee",
+      "sport": "Boxing",
+      "nationality": "AUS"
+    },
+    {
+      "id": "f031",
+      "name": "Sophie Brown",
+      "sport": "Gymnastics",
+      "nationality": "NZL"
+    },
+    {
+      "id": "f032",
+      "name": "Oliver White",
+      "sport": "Cycling",
+      "nationality": "USA"
+    },
+    {
+      "id": "f033",
+      "name": "Lina Zhang",
+      "sport": "Table Tennis",
+      "nationality": "CHN"
+    }
+  ]
+}
